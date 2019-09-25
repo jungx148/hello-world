@@ -1,2 +1,3 @@
 # hello-world
-GitHub Exercise
+
+Hi! This is my first GitHub exercise creating a repository.
